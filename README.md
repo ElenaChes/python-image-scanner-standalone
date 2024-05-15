@@ -1,6 +1,8 @@
 # Image scanner - Standalone
 
-An image editing app written in Python using OpenCV.<br>
+<img align="right" style="width:200px; height:auto;" src="/scanner.ico">
+
+An image "scanning" app written in Python using OpenCV.<br>
 Description: an improvement of my [Image scanner](https://github.com/ElenaChes/Python-Image-scanner), a standalone app that takes an photo of a paper, and outputs an edited image with the paper properly aligned as though it was scanned.
 
 <details>
@@ -16,8 +18,14 @@ Description: an improvement of my [Image scanner](https://github.com/ElenaChes/P
 </details>
 <hr>
 
-# Dependencies
+<p align="center">
+<img style="width:600px; height:auto;" src="https://github.com/ElenaChes/Python-Image-scanner-Standalone/assets/54331769/2b297e19-cf6f-4a9e-a2f1-83409eedfc8b"><br>
+<sub>image.jpg ⇨ image_scanned.png</sub>
+</p>
 
+
+# Dependencies
+  
 1. Python 3.7.0
 
 The app could work with different versions, but this is the one that was tested.
