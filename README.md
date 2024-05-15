@@ -19,13 +19,12 @@ Description: an improvement of my [Image scanner](https://github.com/ElenaChes/P
 <hr>
 
 <p align="center">
-<img style="width:600px; height:auto;" src="https://github.com/ElenaChes/Python-Image-scanner-Standalone/assets/54331769/2b297e19-cf6f-4a9e-a2f1-83409eedfc8b"><br>
+<img style="width:600px; height:auto;" src="https://github.com/ElenaChes/Python-Image-scanner-Standalone/assets/54331769/b9f7e9f6-048d-4d6c-93f9-91b4c0a0ff9f"><br>
 <sub>image.jpg ⇨ image_scanned.png</sub>
 </p>
 
-
 # Dependencies
-  
+
 1. Python 3.7.0
 
 The app could work with different versions, but this is the one that was tested.
