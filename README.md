@@ -8,7 +8,7 @@
 <img align="right" style="width:200px; height:auto;" src="/scanner.ico">
 
 An image "scanning" app written in Python using OpenCV.<br>
-An improved version of my [Image scanner](https://github.com/ElenaChes/Python-Image-scanner), a standalone app that takes a photo of a paper and outputs an edited image with the paper properly aligned as though it was scanned.
+An improved version of my [Image scanner](https://github.com/ElenaChes/python-image-scanner), a standalone app that takes a photo of a paper and outputs an edited image with the paper properly aligned as though it was scanned.
 
 <details>
   <summary><h3>Content</h3></summary>
